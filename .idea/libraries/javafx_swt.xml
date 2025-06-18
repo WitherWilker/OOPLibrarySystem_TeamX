@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="javafx-swt">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/IdeaProjects/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib/javafx-swt.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib/javafx.base.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib/javafx.controls.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib/javafx.fxml.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib/javafx.graphics.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib/javafx.media.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib/javafx.swing.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib/javafx.web.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Users" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/.vscode/extensions/oracle.oracle-java-23.1.0/nbcode/java/scripts" />
+      <root url="file://$USER_HOME$/.vscode/extensions/vscjava.vscode-java-dependency-0.24.1/templates/invisible-project/src" />
+      <root url="file://$USER_HOME$/.vscode/extensions/vscjava.vscode-maven-0.44.0/resources/maven-wrapper/.mvn/wrapper" />
+      <root url="file://$USER_HOME$/IdeaProjects/PBO_B_IDRIS_018/Codelab/Module 1/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/PBO_B_IDRIS_018/Codelab/Module 2/Codelab 1/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/PBO_B_IDRIS_018/Codelab/Module 2/Codelab 2/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/PBO_B_IDRIS_018/Codelab/Module 3/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/PBO_B_IDRIS_018/Codelab/Module 4/Codelab 1/codelab 1/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/PBO_B_IDRIS_018/Codelab/Module 5/Codelab 1/Codelab 1/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/PBO_B_IDRIS_018/Codelab/Module 6/Codelab 1/Codelab 1/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/PBO_B_IDRIS_018/Tugas/Module 1/tugas/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/PBO_B_IDRIS_018/Tugas/Module 2/Tugas/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/PBO_B_IDRIS_018/Tugas/Module 3/Tugas 1/untitled/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/PBO_B_IDRIS_018/Tugas/Module 4/Module 4/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/PBO_B_IDRIS_018/Tugas/Module 4/untitled/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/PBO_B_IDRIS_018/Tugas/Module 5/Tugas 1/untitled/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/PBO_B_IDRIS_018/Tugas/Module 6/Tugas 1/Tugas/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/java/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/kontol/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/kontoll/src" />
+      <root url="file://$USER_HOME$/IdeaProjects/main/src" />
+    </SOURCES>
+  </library>
+</component>
