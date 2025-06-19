@@ -1,10 +1,12 @@
 Kelompok Terdiri dari :
 1. Muhammad Idris Dwi Saputra 
 (202410370110018)
-2. Mukhamad Arif Rahman 
+2. Muhammad Arif Rakhman
 (202410370110033)
 3. Abdul Halim 
 (202410370110016)
+
+Link GitHub : https://github.com/WitherWilker/OOPLibrarySystem_TeamX.git
 
 UMM Library 
 
